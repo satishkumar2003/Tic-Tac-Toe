@@ -3,10 +3,10 @@ A simple pygame project to play Tic-Tac-Toe for 2 players
 
 
 # Modules used to build
--> Pygame
--> Time
+1. Pygame
+2. Time
 
 # Further updates will include:
--> Bug resolving
--> More theme packs to select from (not the traditional XO)
--> More user-friendly interface
+1. Bug resolving
+2. More theme packs to select from (not the traditional XO)
+3. More user-friendly interface
