@@ -7,5 +7,6 @@ A simple pygame project to play Tic-Tac-Toe for 2 players
   --> Time
 
 # Further updates will include:
-  --> More user-friendly interface
-  --> More theme packs to select from (not the traditional XO)
+  -> Bug resolving
+  -> More theme packs to select from (not the traditional XO)
+  -> More user-friendly interface
